@@ -6,3 +6,6 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 var myVar = "Hello, world!";
+- [ ] be a indian cat 
+- [ ] A guro who is gautama budha 
+- [ ] Introduce myself to the world yes u are
